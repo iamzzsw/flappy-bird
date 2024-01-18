@@ -1,0 +1,35 @@
+﻿<Window x:Class="Flappy_Bird.CountryLevel1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Flappy_Bird"
+        mc:Ignorable="d"
+        Title="CountryLevel1" Height="490" Width="525" 
+        WindowStartupLocation="CenterScreen" MaxWidth="525" MaxHeight="490" MinWidth="525" MinHeight="490" WindowStyle="None" Cursor="None">
+
+
+    <Canvas Name="MyCanvas" Focusable="True" KeyDown="KeyIsDown" KeyUp="KeyIsUp" Background="LightBlue">
+
+
+        <Image Height="490" Width="2284.59" Source="bg.png" Canvas.Left="0" Canvas.Top="0" Tag="bg"></Image>
+
+
+        <Image Height="96" Width="161" Source="cloud1.png" Canvas.Left="316" Canvas.Top="359" Tag="cloud1"></Image>
+        <Image Height="96" Width="161" Source="cloud2.png" Canvas.Left="225" Canvas.Top="134" Tag="cloud1"></Image>
+
+        <Image Height="96" Width="161" Source="cloud1.png" Canvas.Left="604" Canvas.Top="190" Tag="cloud2"></Image>
+        <Image Height="96" Width="161" Source="cloud2.png" Canvas.Left="549" Canvas.Top="-24" Tag="cloud2"></Image>
+
+        <Image Height="96" Width="161" Source="cloud1.png" Canvas.Left="961" Canvas.Top="359" Tag="cloud3"></Image>
+        <Image Height="96" Width="161" Source="cloud2.png" Canvas.Left="865" Canvas.Top="134" Tag="cloud3"></Image>
+
+        <Image Height="232" Width="156" Source="tel1.png" Canvas.Left="1233" Canvas.Top="258" Tag="tel1"></Image>
+
+
+        <Image Name="flappybird" Height="40" Width="59" Stretch="Fill" Source="bird1.png" Canvas.Top="190" Canvas.Left="42"></Image>
+        <Label Name="txtScore" FontSize="22" FontWeight="ExtraBold" Content="Score: 0"></Label>
+        <Label Name="txtWin" FontSize="22" FontWeight="ExtraBold" Content="Press SPACE to play" Canvas.Left="88" Canvas.Top="261" Foreground="White" />
+
+    </Canvas>
+</Window>

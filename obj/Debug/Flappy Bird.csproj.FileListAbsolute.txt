@@ -1,0 +1,51 @@
+C:\bsu\.net'\bird\Flappy Bird\bin\Debug\Flappy Bird.exe.config
+C:\bsu\.net'\bird\Flappy Bird\bin\Debug\Flappy Bird.exe
+C:\bsu\.net'\bird\Flappy Bird\bin\Debug\Flappy Bird.pdb
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\Flappy Bird.csprojAssemblyReference.cache
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\MainWindow.g.cs
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\App.g.cs
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\Flappy Bird_MarkupCompile.cache
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\Flappy Bird_MarkupCompile.lref
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\MainWindow.baml
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\Flappy Bird.g.resources
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.GenerateResource.cache
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\Flappy Bird.exe
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\Flappy Bird.pdb
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\WindowClassic.g.cs
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\WindowClassic.baml
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\Main.g.cs
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\Main.baml
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\MainMenu.g.cs
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\MainMenu.baml
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\CountryMenu.g.cs
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\CountryMenu.baml
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\Rating.g.cs
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\Rating.baml
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\Endless.g.cs
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\Endless.baml
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\Login.g.cs
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\Login.baml
+C:\bsu\.net'\bird\Flappy Bird\bin\Debug\Results.db
+C:\bsu\.net'\bird\Flappy Bird\bin\Debug\EntityFramework.dll
+C:\bsu\.net'\bird\Flappy Bird\bin\Debug\EntityFramework.SqlServer.dll
+C:\bsu\.net'\bird\Flappy Bird\bin\Debug\System.Data.SQLite.dll
+C:\bsu\.net'\bird\Flappy Bird\bin\Debug\System.Data.SQLite.EF6.dll
+C:\bsu\.net'\bird\Flappy Bird\bin\Debug\System.Data.SQLite.Linq.dll
+C:\bsu\.net'\bird\Flappy Bird\bin\Debug\EntityFramework.xml
+C:\bsu\.net'\bird\Flappy Bird\bin\Debug\EntityFramework.SqlServer.xml
+C:\bsu\.net'\bird\Flappy Bird\bin\Debug\System.Data.SQLite.xml
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.CopyComplete
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\ClassicLevel1.g.cs
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\ClassicLevel1.baml
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\ClassicLevel2.g.cs
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\ClassicLevel2.baml
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\CountryLevel1.g.cs
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\CountryLevel2.g.cs
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\CountryLevel1.baml
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\CountryLevel2.baml
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\Usermanual.g.cs
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\Usermanual2.g.cs
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\Usermanual.baml
+C:\bsu\.net'\bird\Flappy Bird\obj\Debug\Usermanual2.baml
